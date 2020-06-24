@@ -6,6 +6,19 @@ menuTitle: The role of a maintainer
 
 # What is a maintainer ?
 
-Tests determine the quality of a software. This process involves evaluating information that is related to a shop.
+A maintainer is a specific role on the prestashop open source repository. This role permit to help the project to go further by reviewing pull requests, merging. It's mainly peoples from the PrestaShop company, but this role can be assigned to anyone being active for the organisation.
 
-To make testing easier, we provide a [Vagrant](http://www.vagrantup.com/) configuration designed for testing branches and pull requests.
+Here are the works a maintainer is able to do :
+
+- Review pull requests (Approving, blocking or closing it).
+- Request review from groups.
+- Verify if pull request's template is correctly used, and ask for some correction if it's wrong.
+- He's able to ask some modification in order to keep the codebase consistent.
+
+# Responses types for a specific situation
+
+## Ask for the contributor to create an issue
+
+# What a maintainer should not do ?
+
+The maintainer
